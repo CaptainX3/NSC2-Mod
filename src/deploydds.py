@@ -41,4 +41,3 @@ for root, dirs, files in os.walk(current_dir):
             # Copy over the new file
             print(f"Copying {GREEN}{file}{NC} to {YELLOW}{destination_dir}{NC}")
             shutil.copy2(os.path.join(root, file), destination_dir)
-
