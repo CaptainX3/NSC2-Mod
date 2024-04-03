@@ -1,5 +1,11 @@
 # Graphical changelog
 Comparison pics and personal thoughts
+## Comp2 - 4/3
+![Comp2 Image](comp2.png)
+### Torpedos
+- Add glowing exhaust
+    - Improves legibility and outline
+    - Communicates weapon class: "glowing exhaust" visually implies "long range"
 
 ## Comp1 - 4/2
 ![Comp1 Image](comp1.png)
